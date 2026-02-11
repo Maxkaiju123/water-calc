@@ -1,0 +1,7 @@
+# Local testing scripts
+serve.py
+Icon_Creation.py
+
+# System files
+.DS_Store
+Thumbs.db
